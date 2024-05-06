@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This project is to accomplish the submission for Activity 2 on WEB DESIGN WITH CLIENT SCRIPT (LAB) (Optional)
+  This project is to accomplish the submission for Activity 2 on WEB DESIGN WITH CLIENT SCRIPT (LAB)
 </div>
 
 <br />
