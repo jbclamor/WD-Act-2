@@ -19,7 +19,7 @@
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  --> jbclamor
-<!-- TODO: Change the WD-Template-Project into the same name of your folder --> jbclamor
+<!-- TODO: Change the WD-Template-Project into the same name of your folder --> WD-Act-2
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
 
 ---
