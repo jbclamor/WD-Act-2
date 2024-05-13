@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header,
+header * {
+    outline: 1px black
+    dashed;
+}
+
+section,
+section * {
+    outline: 1px red
+    dashed;
+}
+
+header {
+    display: flex;
+    padding: 1rem;
+    align-items: center;
+
+    & > div {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        padding: 1rem;
+        & > img {
+            width: 10px;
+        }
+
+        & > div {
+            display: flex;
+            flex-direction: row;
+        }
+    }
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+
+    & > p {
+        padding: 1rem;
+    }
+    }
