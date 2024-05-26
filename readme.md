@@ -60,10 +60,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- This project is supposed to serve as a Resume for future purposes.
+- To accomplish my submission for Seatwork#2 in Web Design w/ Client Script / Future Resume for future career opportunities.
+- Key Components: Various sections such as (Information about myself, Contact Information, Educational Background, etc.) and the utilization of the head and body sections of HTML.
+- HTML and CSS (HTML used for the content of the website and CSS for the design of the website.)
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -111,4 +111,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| HTML CSS RESUME | This video served as a template for me as a reference for my resume website. | https://www.youtube.com/watch?v=FHb9JobDs2o&t=1907s
